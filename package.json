@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "## Note regarding running Node.js Must be inside \"portfolio-generator/assets/js\" path to run Node.js as that's where app.js is located.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachary-levin/portfolio-generator.git"
+  },
+  "author": "levin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachary-levin/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/zachary-levin/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
